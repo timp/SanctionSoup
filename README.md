@@ -1,12 +1,6 @@
 An attempt to parse https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1058962/UK_Sanctions_List.xml
 
 
-RUS0261 01/03/2022 Entity Asset freeze
-RUS0262 01/03/2022 Entity Asset freeze
-RUS0263 01/03/2022 Entity Asset freeze
-RUS0264 01/03/2022 Individual Asset freeze|Travel Ban
-RUS0265 03/03/2022 Individual Asset freeze|Travel Ban
-RUS0266 03/03/2022 Individual Asset freeze|Travel Ban
 RUS0001 31/12/2020 Individual Asset freeze|Travel Ban   
 RUS0002 31/12/2020 Individual Asset freeze|Travel Ban   
 RUS0003 31/12/2020 Individual Asset freeze|Travel Ban   
