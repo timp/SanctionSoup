@@ -1,4 +1,4 @@
-An attempt to parse https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1058962/UK_Sanctions_List.xml
+An attempt to parse https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1058962/UK_Sanctions_List.xml from https://www.gov.uk/government/publications/the-uk-sanctions-list
 
 
 RUS0001 31/12/2020 Individual Asset freeze|Travel Ban   
