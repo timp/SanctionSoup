@@ -2,4 +2,5 @@ curl -L -k -H "Accept-Charset: utf-8;q=0.7,*;q=0.7"   https://assets.publishing.
 
 date >> gets.txt
 
+python SanctionSoup.py > README.md
 
