@@ -252,7 +252,7 @@ RUS0252 25/02/2022 Individual Asset freeze
 RUS0253 28/02/2022 Entity Asset freeze   
 RUS0254 28/02/2022 Entity Asset freeze   
 RUS0255 28/02/2022 Entity Asset freeze   
-RUS0256 28/02/2022 Entity none   
+RUS0256 01/03/2022 Entity none   
 RUS0257 01/03/2022 Individual Asset freeze|Travel Ban   
 RUS0258 01/03/2022 Individual Asset freeze|Travel Ban   
 RUS0259 01/03/2022 Individual Asset freeze|Travel Ban   
