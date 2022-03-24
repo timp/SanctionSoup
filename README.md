@@ -270,392 +270,392 @@ RUS0270 10/03/2022 Individual Asset freeze|Travel Ban
 RUS0271 10/03/2022 Individual Asset freeze|Travel Ban   
 RUS0272 10/03/2022 Individual Asset freeze|Travel Ban   
 RUS0273 10/03/2022 Individual Asset freeze|Travel Ban   
-RUS0274 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0275 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0276 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0277 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0278 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0279 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0280 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0281 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0282 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0283 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0284 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0285 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0286 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0287 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0288 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0289 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0290 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0291 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0292 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0293 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0294 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0295 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0296 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0297 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0298 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0299 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0300 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0301 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0302 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0303 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0304 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0305 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0306 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0307 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0308 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0309 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0310 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0311 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0312 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0313 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0314 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0315 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0316 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0317 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0318 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0319 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0320 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0321 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0322 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0323 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0324 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0325 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0326 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0327 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0328 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0329 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0330 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0331 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0332 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0333 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0334 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0335 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0336 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0337 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0338 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0339 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0340 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0341 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0342 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0343 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0344 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0345 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0346 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0347 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0348 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0349 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0350 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0351 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0352 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0353 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0354 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0355 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0356 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0357 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0358 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0359 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0360 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0361 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0362 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0363 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0364 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0365 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0366 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0367 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0368 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0369 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0370 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0371 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0372 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0373 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0374 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0375 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0376 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0377 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0378 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0379 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0380 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0381 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0382 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0383 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0384 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0385 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0386 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0387 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0388 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0389 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0390 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0391 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0392 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0393 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0394 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0395 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0396 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0397 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0398 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0399 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0400 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0401 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0402 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0403 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0404 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0405 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0406 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0407 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0408 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0409 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0410 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0411 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0412 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0413 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0414 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0415 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0416 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0417 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0418 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0419 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0420 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0421 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0422 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0423 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0424 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0425 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0426 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0427 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0428 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0429 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0430 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0431 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0432 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0433 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0434 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0435 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0436 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0437 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0438 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0439 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0440 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0441 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0442 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0443 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0444 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0445 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0446 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0447 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0448 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0449 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0450 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0451 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0452 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0453 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0454 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0455 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0456 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0457 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0458 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0459 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0460 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0461 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0462 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0463 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0464 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0465 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0466 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0467 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0468 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0469 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0470 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0471 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0472 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0473 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0474 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0475 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0476 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0477 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0478 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0479 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0480 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0481 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0482 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0483 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0484 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0485 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0486 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0487 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0488 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0489 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0490 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0491 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0492 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0493 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0494 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0495 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0496 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0497 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0498 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0499 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0500 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0501 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0502 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0503 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0504 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0505 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0506 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0507 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0508 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0509 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0510 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0511 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0512 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0513 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0514 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0515 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0516 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0517 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0518 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0519 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0520 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0521 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0522 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0523 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0524 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0525 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0526 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0527 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0528 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0529 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0530 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0531 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0532 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0533 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0534 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0535 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0536 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0537 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0538 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0539 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0540 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0541 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0542 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0543 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0544 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0545 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0546 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0547 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0548 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0549 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0550 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0551 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0552 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0553 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0554 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0555 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0556 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0557 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0558 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0559 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0560 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0561 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0562 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0563 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0564 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0565 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0566 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0567 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0568 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0569 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0570 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0571 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0572 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0573 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0574 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0575 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0576 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0577 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0578 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0579 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0580 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0581 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0582 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0583 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0584 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0585 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0586 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0587 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0588 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0589 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0590 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0591 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0592 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0593 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0594 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0595 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0596 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0597 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0598 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0599 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0600 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0601 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0602 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0603 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0604 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0605 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0606 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0607 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0608 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0609 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0610 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0611 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0612 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0613 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0614 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0615 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0616 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0617 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0618 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0619 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0620 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0621 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0622 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0623 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0624 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0625 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0626 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0627 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0628 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0629 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0630 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0631 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0632 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0633 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0634 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0635 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0636 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0637 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0638 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0639 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0640 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0641 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0642 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0643 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0644 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0645 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0646 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0647 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0648 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0649 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0650 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0651 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0652 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0653 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0654 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0655 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0656 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0657 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0658 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
-RUS0659 Mar 11 2022 12:00AM Individual Asset freeze|Travel Ban   
+RUS0274 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0275 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0276 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0277 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0278 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0279 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0280 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0281 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0282 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0283 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0284 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0285 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0286 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0287 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0288 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0289 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0290 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0291 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0292 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0293 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0294 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0295 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0296 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0297 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0298 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0299 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0300 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0301 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0302 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0303 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0304 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0305 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0306 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0307 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0308 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0309 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0310 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0311 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0312 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0313 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0314 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0315 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0316 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0317 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0318 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0319 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0320 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0321 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0322 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0323 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0324 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0325 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0326 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0327 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0328 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0329 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0330 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0331 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0332 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0333 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0334 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0335 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0336 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0337 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0338 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0339 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0340 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0341 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0342 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0343 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0344 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0345 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0346 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0347 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0348 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0349 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0350 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0351 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0352 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0353 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0354 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0355 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0356 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0357 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0358 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0359 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0360 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0361 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0362 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0363 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0364 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0365 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0366 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0367 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0368 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0369 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0370 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0371 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0372 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0373 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0374 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0375 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0376 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0377 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0378 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0379 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0380 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0381 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0382 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0383 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0384 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0385 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0386 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0387 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0388 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0389 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0390 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0391 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0392 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0393 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0394 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0395 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0396 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0397 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0398 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0399 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0400 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0401 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0402 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0403 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0404 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0405 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0406 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0407 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0408 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0409 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0410 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0411 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0412 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0413 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0414 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0415 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0416 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0417 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0418 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0419 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0420 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0421 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0422 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0423 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0424 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0425 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0426 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0427 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0428 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0429 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0430 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0431 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0432 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0433 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0434 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0435 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0436 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0437 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0438 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0439 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0440 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0441 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0442 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0443 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0444 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0445 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0446 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0447 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0448 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0449 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0450 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0451 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0452 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0453 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0454 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0455 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0456 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0457 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0458 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0459 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0460 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0461 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0462 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0463 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0464 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0465 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0466 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0467 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0468 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0469 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0470 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0471 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0472 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0473 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0474 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0475 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0476 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0477 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0478 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0479 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0480 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0481 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0482 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0483 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0484 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0485 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0486 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0487 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0488 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0489 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0490 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0491 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0492 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0493 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0494 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0495 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0496 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0497 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0498 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0499 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0500 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0501 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0502 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0503 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0504 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0505 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0506 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0507 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0508 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0509 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0510 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0511 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0512 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0513 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0514 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0515 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0516 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0517 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0518 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0519 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0520 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0521 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0522 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0523 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0524 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0525 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0526 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0527 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0528 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0529 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0530 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0531 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0532 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0533 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0534 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0535 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0536 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0537 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0538 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0539 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0540 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0541 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0542 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0543 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0544 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0545 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0546 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0547 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0548 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0549 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0550 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0551 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0552 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0553 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0554 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0555 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0556 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0557 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0558 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0559 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0560 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0561 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0562 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0563 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0564 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0565 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0566 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0567 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0568 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0569 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0570 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0571 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0572 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0573 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0574 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0575 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0576 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0577 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0578 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0579 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0580 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0581 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0582 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0583 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0584 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0585 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0586 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0587 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0588 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0589 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0590 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0591 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0592 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0593 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0594 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0595 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0596 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0597 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0598 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0599 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0600 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0601 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0602 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0603 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0604 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0605 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0606 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0607 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0608 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0609 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0610 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0611 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0612 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0613 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0614 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0615 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0616 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0617 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0618 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0619 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0620 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0621 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0622 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0623 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0624 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0625 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0626 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0627 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0628 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0629 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0630 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0631 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0632 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0633 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0634 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0635 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0636 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0637 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0638 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0639 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0640 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0641 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0642 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0643 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0644 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0645 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0646 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0647 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0648 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0649 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0650 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0651 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0652 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0653 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0654 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0655 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0656 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0657 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0658 11/03/2022 Individual Asset freeze|Travel Ban   
+RUS0659 11/03/2022 Individual Asset freeze|Travel Ban   
 RUS0664 15/03/2022 Individual Asset freeze|Travel Ban   
 RUS0665 15/03/2022 Individual Asset freeze|Travel Ban   
 RUS0666 15/03/2022 Individual Asset freeze|Travel Ban   
@@ -1018,5 +1018,64 @@ RUS1038 15/03/2022 Individual Asset freeze|Travel Ban
 RUS1039 15/03/2022 Individual Asset freeze|Travel Ban   
 RUS1040 15/03/2022 Entity Asset freeze   
 RUS1041 15/03/2022 Entity Asset freeze   
+RUS1042 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1043 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1044 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1045 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1046 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1047 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1048 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1049 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1050 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1051 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1052 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1053 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1054 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1055 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1056 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1057 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1058 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1059 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1060 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1061 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1062 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1063 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1064 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1065 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1066 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1067 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1068 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1069 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1070 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1071 24/03/2022 Entity Asset freeze   
+RUS1072 24/03/2022 Entity Asset freeze   
+RUS1073 24/03/2022 Entity Asset freeze   
+RUS1074 24/03/2022 Entity Asset freeze   
+RUS1075 24/03/2022 Entity Asset freeze   
+RUS1076 24/03/2022 Entity Asset freeze   
+RUS1077 24/03/2022 Entity Asset freeze   
+RUS1078 24/03/2022 Entity Asset freeze   
+RUS1079 24/03/2022 Entity Asset freeze   
+RUS1080 24/03/2022 Entity Asset freeze   
+RUS1081 24/03/2022 Entity Asset freeze   
+RUS1082 24/03/2022 Entity Asset freeze   
+RUS1083 24/03/2022 Entity Asset freeze   
+RUS1084 24/03/2022 Entity Asset freeze   
+RUS1085 24/03/2022 Entity Asset freeze   
+RUS1086 24/03/2022 Entity Asset freeze   
+RUS1088 24/03/2022 Entity Asset freeze   
+RUS1089 24/03/2022 Entity Asset freeze   
+RUS1090 24/03/2022 Entity Asset freeze   
+RUS1091 24/03/2022 Entity Asset freeze   
+RUS1092 24/03/2022 Entity Asset freeze   
+RUS1093 24/03/2022 Entity Asset freeze   
+RUS1094 24/03/2022 Entity Asset freeze   
+RUS1095 24/03/2022 Entity Asset freeze   
+RUS1096 24/03/2022 Entity Asset freeze   
+RUS1097 24/03/2022 Entity Asset freeze   
+RUS1098 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1099 24/03/2022 Individual Asset freeze|Travel Ban   
+RUS1100 24/03/2022 Individual Asset freeze   
+RUS1101 24/03/2022 Individual Asset freeze|Travel Ban   
 
-Total:  1018
+Total:  1077
