@@ -252,7 +252,7 @@ RUS0252 25/02/2022 Individual Asset freeze
 RUS0253 28/02/2022 Entity Asset freeze   
 RUS0254 28/02/2022 Entity Asset freeze   
 RUS0255 28/02/2022 Entity Asset freeze   
-RUS0256 01/03/2022 Entity none   
+RUS0256 01/03/2022 Entity Asset freeze|Prohibition on correspondent banking and sterling clearing   
 RUS0257 01/03/2022 Individual Asset freeze|Travel Ban   
 RUS0258 01/03/2022 Individual Asset freeze|Travel Ban   
 RUS0259 01/03/2022 Individual Asset freeze|Travel Ban   
@@ -1093,5 +1093,14 @@ RUS1115 31/03/2022 Individual Asset freeze|Travel Ban
 RUS1116 31/03/2022 Entity Asset freeze   
 RUS1117 31/03/2022 Entity Asset freeze   
 RUS1118 31/03/2022 Entity Asset freeze   
+RUS1119 06/04/2022 Entity Asset freeze   
+RUS1120 06/04/2022 Individual Asset freeze|Travel Ban   
+RUS1121 06/04/2022 Individual Asset freeze|Travel Ban   
+RUS1122 06/04/2022 Individual Asset freeze|Travel Ban   
+RUS1123 06/04/2022 Individual Asset freeze|Travel Ban   
+RUS1124 06/04/2022 Individual Asset freeze|Travel Ban   
+RUS1125 06/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
+RUS1126 06/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
+RUS1127 06/04/2022 Individual Asset freeze   
 
-Total:  1093
+Total:  1102
