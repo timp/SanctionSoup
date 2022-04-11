@@ -1102,5 +1102,8 @@ RUS1124 06/04/2022 Individual Asset freeze|Travel Ban
 RUS1125 06/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
 RUS1126 06/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
 RUS1127 06/04/2022 Individual Asset freeze   
+RUS1128 08/04/2022 Individual Asset freeze|Travel Ban   
+RUS1129 08/04/2022 Individual Asset freeze|Travel Ban   
+RUS1130 08/04/2022 Individual Asset freeze|Travel Ban   
 
-Total:  1102
+Total:  1105
