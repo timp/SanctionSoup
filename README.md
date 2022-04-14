@@ -1311,5 +1311,7 @@ RUS1334 13/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "
 RUS1335 13/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
 RUS1336 13/04/2022 Individual Asset freeze   
 RUS1337 13/04/2022 Individual Asset freeze|Travel Ban   
+RUS1338 14/04/2022 Individual Asset freeze|Transport sanctions: see "Other information"   
+RUS1339 14/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
 
-Total:  1311
+Total:  1313
