@@ -1313,5 +1313,31 @@ RUS1336 13/04/2022 Individual Asset freeze
 RUS1337 13/04/2022 Individual Asset freeze|Travel Ban   
 RUS1338 14/04/2022 Individual Asset freeze|Transport sanctions: see "Other information"   
 RUS1339 14/04/2022 Individual Asset freeze|Travel Ban|Transport sanctions: see "Other information"   
+RUS1340 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1341 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1342 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1343 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1344 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1345 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1346 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1347 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1348 21/04/2022 Individual Asset freeze|Travel Ban   
+RUS1349 21/04/2022 Entity Asset freeze   
+RUS1350 21/04/2022 Entity Asset freeze   
+RUS1351 21/04/2022 Entity Asset freeze   
+RUS1352 21/04/2022 Entity Asset freeze   
+RUS1353 21/04/2022 Entity Asset freeze   
+RUS1354 21/04/2022 Entity Asset freeze   
+RUS1355 21/04/2022 Entity Asset freeze   
+RUS1356 21/04/2022 Entity Asset freeze   
+RUS1357 21/04/2022 Entity Asset freeze   
+RUS1358 21/04/2022 Entity Asset freeze   
+RUS1359 20/04/2022 Individual Asset freeze|Transport sanctions: see "Other information"   
+RUS1360 20/04/2022 Individual Asset freeze|Travel Ban   
+RUS1361 20/04/2022 Individual Asset freeze|Travel Ban   
+RUS1362 20/04/2022 Individual Asset freeze|Travel Ban   
+RUS1363 20/04/2022 Individual Asset freeze|Travel Ban   
+RUS1364 20/04/2022 Individual Asset freeze|Travel Ban   
+RUS1365 20/04/2022 Individual Asset freeze|Travel Ban   
 
-Total:  1313
+Total:  1339
